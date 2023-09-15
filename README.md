@@ -8,6 +8,7 @@
 <img width="371" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/e0ad2d35-36db-402a-aee3-22d6924f282e">
 
   digambar sudah saya masukan 2 data dari nasabah sebagai contoh untuk melihat kondisi didalam tabel nasabah ini, disini saya memasukan asep dan putri.
+
 # tabel Kartu_ATM
 <img width="778" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/20955aa4-b2c8-4247-b684-57c03b7e2aea">
 
@@ -17,3 +18,9 @@
 <img width="345" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/2f71460c-cdbf-4817-b91d-01447fe30d3e">
 
   disini sudah saya masukan 2 data untuk 2 kartu ATM yang berbeda yang pertama milik asep dengan jenis debit dan yang kedua milik putri dengan jenis kredit.
+# tabel Transaksi
+<img width="765" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/857c0266-865a-4460-b42d-c44d34c064ca">
+
+
+
+<img width="746" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/eb56bfc1-3d3c-463a-adc1-4f4abcf0db11">
