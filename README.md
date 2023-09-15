@@ -8,10 +8,9 @@
 <img width="371" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/e0ad2d35-36db-402a-aee3-22d6924f282e">
 
   digambar sudah saya masukan 2 data dari nasabah sebagai contoh untuk melihat kondisi didalam tabel nasabah ini, disini saya memasukan asep dan putri.
-
+# tabel Kartu_ATM
 <img width="778" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/20955aa4-b2c8-4247-b684-57c03b7e2aea">
 
-# tabel Kartu_ATM
   ini tabel nasabah dan disana terdapat atribut-atribut atau kolom dari entitas atau tabel dari Kartu_ATM , disini yang menjadi atribut primary key adalah Nomor_Kartu_ATM karena biasanya Nomor Kartu ATM dibuat oleh bank dengan nomor yang berbeda-beda disetiap nasabah, dan disini terdapat atribut Nomor_rekening yaang menjadi foreign key yang diambil dari tabel atau entitas nasabah.
 
 <img width="569" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/cd933b0f-456a-4e51-a0c9-36c77ab33509">
