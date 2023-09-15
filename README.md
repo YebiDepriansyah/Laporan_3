@@ -16,4 +16,4 @@
 <img width="569" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/cd933b0f-456a-4e51-a0c9-36c77ab33509">
 <img width="345" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/2f71460c-cdbf-4817-b91d-01447fe30d3e">
 
-  disini sudah saya masukan 2 data untuk 2 kartu ATM yang berbeda yang pertama milik asep dengan jenis debit dan putri dengan jenis kredit.
+  disini sudah saya masukan 2 data untuk 2 kartu ATM yang berbeda yang pertama milik asep dengan jenis debit dan yang kedua milik putri dengan jenis kredit.
