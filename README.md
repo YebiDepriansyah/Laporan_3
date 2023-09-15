@@ -1,4 +1,5 @@
 # Laporan_3_Basda
+# NAMA: YEBI DEPRIANSYAH, NPM: G1A022063
 # Tabel Nasabah
 <img width="770" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/af4a52b9-0a51-4b7a-8886-471d679b3628">
 
