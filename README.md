@@ -28,3 +28,6 @@ ini tabel nasabah dan disini terdapat atribut-atribut atau kolom dari entitas at
 <img width="746" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/eb56bfc1-3d3c-463a-adc1-4f4abcf0db11">
 
 disini saya sudah memasukan 2 data transaksi yang berbeda, yang pertama adalah Transaksi bayar shoppe milik asep dengan menggunakan kartu debit, dan yang kedua adalah Transaksi bayar cicilan hp milik putri dengan menggunakan kartu kredit.
+# kode tabel Nasabah
+
+# kode tabel Transaksi
