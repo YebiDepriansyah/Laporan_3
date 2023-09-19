@@ -33,6 +33,7 @@ disini saya sudah memasukan 2 data transaksi yang berbeda, yang pertama adalah T
 <img width="309" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/3bfc3e18-5a98-4a19-ab02-43a93ba81207">
 
 # kode tabel kartu_ATM
+<img width="329" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/a181874a-d087-4e38-b067-2c48a6355de5">
 
 # kode tabel Transaksi
 <img width="308" alt="image" src="https://github.com/YebiDepriansyah/Laporan_3/assets/131685598/672b5747-7c0a-42c3-8dde-1578c6ef1361">
